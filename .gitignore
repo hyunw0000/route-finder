@@ -1,6 +1,6 @@
 # 비밀 정보 (API 키 등)
 .env
-
+memo.txt
 # OS 임시 파일
 .DS_Store
 Thumbs.db
